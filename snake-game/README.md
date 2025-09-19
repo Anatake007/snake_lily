@@ -29,9 +29,3 @@ cd build
 cmake ..
 cmake --build .
 ./snake
-```
-
-## Cerințe pentru laborator
-- Înregistrează-te pe GitHub și creează un repository nou (de ex. `snake-game`).
-- Clonează repo local sau încarcă fișierele create aici.
-- Creează un branch `lab01`, încarcă codul în `lab01` și creează un Pull Request către `main`.
